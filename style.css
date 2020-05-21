@@ -1,0 +1,670 @@
+body{
+    background:#fff;
+    margin:0;
+    padding:0;
+}
+/*top section css starts here*/
+#topsection article .leftside img{
+    height: 100px;
+    width: 162px;
+    margin-left: 36px;
+}
+#topsection article .rightside .one li{
+    list-style: none;
+    position: absolute;
+    margin-left: 347px;
+    margin-top: -45px; 
+    box-shadow: inset 0 -2px 0 0 #673ab7;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .two li{
+    list-style: none;
+    position: absolute;
+    margin-left: 441px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .three li{
+    list-style: none;
+    position: absolute;
+    margin-left: 554px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .four li{
+    list-style: none;
+    position: absolute;
+    margin-left: 757px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .five li{
+     list-style: none;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .six li{
+ list-style: none;
+    position: absolute;
+    margin-left: 902px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .seven li{
+    list-style: none;
+    position: absolute;
+    margin-left: 988px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+#topsection article .rightside .eight li{
+    list-style: none;
+    position: absolute;
+    margin-left: 1119px;
+    margin-top: -46px;
+    color: #757575;
+    font-weight: 300;
+    cursor: pointer;
+    word-spacing: 1px;
+}
+/*top section css ends here*/
+
+/*join the section css starts here*/
+#join article div img{
+    margin-top: -27px;
+    width: 1348px;
+}
+/*join the section css ends here*/
+
+/*india section  css starts here*/
+#india article{
+    background-image:url(../images/img22.svg);
+}
+#india article div img{
+    height: 402px;
+    width: 770px;
+    position: absolute;
+}
+#india article div  h1{
+    font-size: 64px;
+    font-weight: 500;
+    line-height: normal;
+    color: #673ab7;
+    float: right;
+    margin-right: 500px;
+}
+#india article div h5{
+    font-size: 42px;
+    font-weight: 200;
+    line-height: normal;
+    float: right;
+    margin-right: 362px;
+    margin-top: -51px;
+    color: #212121;
+}
+#india article div p{
+    font-weight: 400;
+    line-height: normal;
+    float: right;
+    margin-right: 291px;
+    margin-top: -51px;
+    color: #757575;
+    font-size: 16px;
+}
+#india article .one img{
+    height: 100px;
+    padding-left: 848px;
+    margin-top: 245px;
+    width: 200px;
+}
+#india article .two img{
+      height: 100px;
+    padding-left: 624px;
+    margin-top: 245px;
+    width: 200px;
+}
+/*india section css ends  here*/
+
+/*makeinsta section css starts here*/
+#makeinsta article div img{
+     margin-top: 131px;
+    width: 1346px;
+    }
+/*makeinsta section css ends here*/
+
+/*keep section css starts here*/
+#keep article .one{
+    font-size: 36px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    color: #212121;
+    margin-top: 96px;
+    padding-left: 90px;
+}
+#keep article .two img{
+width: 500px;
+    height: 500px;
+    margin-top: 32px;
+    padding-left: 95px
+}
+#keep article header .section-header-title{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: normal;
+    margin-left: 723px;
+    margin-top: -339px;
+}
+#keep article header p{
+    line-height: 1.31;
+    margin-left: 723px;
+    font-size: 16px;
+    font-weight:200;
+}
+/*keep section css ends here*/
+/*bankaccount section css starts here*/
+#bankaccouunt article .one img{
+    width: 500px;
+    height: 500px;
+    margin-top: 188px;
+    padding-left: 696px;
+}
+#bankaccouunt article .Two h4{
+    position:absolute;
+    margin-top: -277px;
+    padding-left: 140px;
+    font-size: 24px;
+    font-weight: bold;
+}
+#bankaccouunt article footer p{
+    position: absolute;
+    margin-top: -229px;
+    padding-left: 140px;
+    font-size: 17px;
+    font-weight: 500;
+}
+/*bankaccount section css ends here*/
+/*multiple section  css starts here*/
+#multiple article .one h4{
+    position: absolute;
+    padding-left: 754px;
+    margin-top: 203px;
+    font-size: 24px;
+    font-weight: bold;
+}
+#multiple article .two p{
+    position: absolute;
+    padding-left: 754px;
+    margin-top: 251px;
+    font-size: 16px;
+}
+#multiple article footer img{
+    width: 500px;
+    height: 500px;
+    margin-top: 27px;
+    padding-left: 70px;
+}
+/*multiple section  css ends here*/
+
+/*phonepay merchant section  css starts here*/
+#merchant article{
+    background-color: #fcf9ff;
+    height: 300px;
+}
+#merchant article .one p{
+    margin-top: 45px;
+    padding-left: 507px;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    color: #212121;
+    position: absolute;
+}
+#merchant article .two img{
+    position: absolute;
+    height: 150px;
+    margin-top: 122px;
+    padding-left: 50px;
+    width: 84px;
+}
+#merchant article .three img{
+    position: absolute;
+    height: 150px;
+    margin-top: 122px;
+    padding-left: 194px;
+    width: 84px;
+}
+#merchant article .four img{
+       position: absolute;
+    height: 105px;
+    margin-top: 122px;
+    padding-left: 360px;
+    width: 133px;
+}
+#merchant article .five img{
+    position: absolute;
+    height: 105px;
+    margin-top: 122px;
+    padding-left: 553px;
+    width:84px;
+}
+#merchant article .six img{
+   position: absolute;
+    height: 108px;
+    margin-top: 122px;
+    padding-left: 688px;
+    width: 170px;
+}
+#merchant article .seven img{
+ position: absolute;
+    height: 108px;
+    margin-top: 122px;
+    padding-left: 908px;
+    width: 137px;
+}
+#merchant article .eight img{
+        position: absolute;
+    height: 114px;
+    margin-top: 122px;
+    padding-left: 1098px;
+    width: 185px;
+}
+/*phonepay merchant section  css ends here*/
+
+/*multiple ways to pay section css starts here*/
+#multipleways article .one p{
+    margin-top: 67px;
+    padding-left: 539px;
+    position: absolute;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    color: #212121;
+}
+#multipleways article .two h6{
+    margin-top: 137px;
+    padding-left: 539px;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    color: #212121;
+}
+#multipleways article .three img{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    margin-top: 214px;
+    margin-left: 776px;
+    border-bottom: 1px solid black;
+}
+#multipleways article .four img{
+    position: absolute;
+    margin-top: 237px;
+    padding-left: 129px;
+    border-bottom: 1px solid black;
+    width: 315px;
+}
+#multipleways article .five p{
+margin-top: 612px;
+    position: absolute;
+    padding-left: 175px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #212121;
+}
+#multipleways article .six{
+    margin-top: 670px;
+    position: absolute;
+    padding-left: 175px;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+    color: #212121;
+}
+#multipleways article .seven p{
+    margin-top: 736px;
+    position: absolute;
+    padding-left: 947px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #212121
+}
+#multipleways article .eight{
+ color: #212121;
+    margin-top: 787px;
+    position: absolute;
+    padding-left: 915px;
+    font-size: 16px;
+    font-weight: 400;
+}
+/*multiple ways to pay section css ends here*/
+
+/*image section css start here*/
+#image article{
+    background:#eee;
+    margin-top:856px;
+}
+#image article .one img{
+    width: 222px;
+    height: 133px;
+    padding-left: 439px;
+    margin-top: 36px;
+}
+#image article  .two img{
+   width: 222px;
+    height: 133px;
+    padding-left: 713px;
+    margin-top: -138px;
+    position: absolute;
+}
+/*image section css ends here*/
+
+/*Earn getting section  css strts here*/
+#earn article .one{
+    font-size: 40px;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    color: #212121;
+    margin-top: 80px;
+}
+#earn article .two{
+    position:absolute;
+    margin-top: 43px;
+    margin-left: 20px;
+}
+#earn article header h4{
+    font-size: 32px;
+    font-weight: bold;
+    line-height: normal;
+    padding-left: 605px;
+    margin-top: 175px;
+}
+#earn article footer{
+    padding-left: 605px;
+    margin-top: -12px;
+    font-size: 16px;
+}
+/*Earn getting section  css ends here*/
+
+/*Video section css  starts here*/
+#video article .one p{
+    position: absolute;
+    margin-top: 355px;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #212121;
+    height: 138px;
+    padding-top: 43px;
+    padding-left: 481px;
+}
+#video article .two video{
+    position: absolute;
+    margin-top: 476px;
+    padding-left: 38px;
+}
+/*Video section css  ends here*/
+
+/*speak section  css starts here*/
+#speak article .one img{
+    width: 500px;
+    height: 500px;
+    margin-top: 1265px;
+    padding-left: 696px;
+}
+#speak article .two h4{
+    line-height: normal;
+    position: absolute;
+    margin-top: -285px;
+    padding-left: 159px;
+    font-size: 24px;
+}
+#speak article .three p{
+    position: absolute;
+    margin-top: -216px;
+    padding-left: 158px;
+    font-size: 16px;
+}
+/*speak section  css ends here*/
+/*footer section css starts here*/
+#footer article {
+    font-size: .813em!important;
+    background-color: #2a2c43;
+    padding: 24px 0 2px;
+    letter-spacing: .75px;
+    height: 300px;
+    margin-top:20px;
+}
+#footer article .one p{
+    color: #7f818f!important;
+    padding-left: 127px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .two p{
+    color: #7f818f!important;
+    padding-left: 290px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .three p{
+    color: #7f818f!important;
+    padding-left: 427px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .four p{
+color: #7f818f!important;
+    padding-left: 575px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .five p{
+    color: #7f818f!important;
+    padding-left: 746px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .five .play img{
+   height: 115px;
+    width: 135px;
+    position: absolute;
+    padding-left: 738px;
+    margin-top: 7px;
+}
+#footer article .app img{
+   height: 115px;
+    width: 135px;
+    position: absolute;
+    padding-left: 742px;
+    margin-top: -75px;
+}
+#footer article .six p{
+    color: #7f818f!important;
+    padding-left: 931px;
+    font-size: 17px;
+    position: absolute;
+}
+#footer article .six img{
+    height: 93px;
+    width: 176px;
+    margin-top: 47px;
+    padding-left: 936px;
+}
+/*footer section css ends here*/
+
+/*footer name section css starts here*/
+#footername article .facebook p{
+   position: absolute;
+    padding-left: 592px;
+    margin-top: -245px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Twitter p{
+  position: absolute;
+    padding-left: 593px;
+    margin-top: -215px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Linkedin p{
+   position: absolute;
+    padding-left: 598px;
+    margin-top: -185px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Terms p{
+    position: absolute;
+    padding-left: 416px;
+    margin-top: -254px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .policy p{
+     position: absolute;
+    padding-left: 420px;
+    margin-top: -223px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .support p{
+    position: absolute;
+    padding-left: 420px;
+    margin-top: -196px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .how p{
+   position: absolute;
+    padding-left: 420px;
+    margin-top: -165px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .ewaste p{
+   position: absolute;
+    padding-left: 420px;
+    margin-top: -132px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .carrers p{
+   position: absolute;
+    padding-left: 291px;
+    margin-top: -254px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Contactus p{
+     position: absolute;
+    padding-left: 292px;
+    margin-top: -222px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Ethics p{
+    position: absolute;
+    padding-left: 294px;
+    margin-top: -196px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Blog p{
+    position: absolute;
+    padding-left: 294px;
+    margin-top: -167px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .InviteFriends p{
+    position: absolute;
+    padding-left: 294px;
+    margin-top: -133px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .Aboutus p{
+   position: absolute;
+    padding-left: 127px;
+    margin-top: -254px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .BusinessSolution p{
+     position: absolute;
+    padding-left: 127px;
+    margin-top: -222px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .ReportVulnerability p{
+    position: absolute;
+    padding-left: 127px;
+    margin-top: -194px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .OfflineMerchants p{
+    position: absolute;
+    padding-left: 127px;
+    margin-top: -159px;
+    color: #eee;
+    font-weight: 300;
+    word-spacing: 1px;
+}
+#footername article .All p{
+     position: absolute;
+    padding-left: 127px;
+    margin-top: -53px;
+    font-weight: 300;
+    word-spacing: 1px;
+    color: #7f818f!important;
+}
+/*footer name section css ends here*/
